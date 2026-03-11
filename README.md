@@ -11,6 +11,10 @@ I made [Sol's Stat Tracker](https://www.solsstattracker.com), a global auras tra
   </a>
 </p>
 
+<p align=center>
+  <a href="https://wakatime.com/@6fffc94e-b15f-4169-aaa5-58132c31460a"><img src="https://wakatime.com/badge/user/6fffc94e-b15f-4169-aaa5-58132c31460a.svg" alt="Total time coded since Mar 11 2026" /></a>
+</p>
+
 <br />
 
 ## Projects
