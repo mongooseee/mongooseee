@@ -1,16 +1,21 @@
-## Hi there 👋
+# Mongoose 🪼
+I create games on [Roblox](https://www.roblox.com/users/203426682/profile) and I program apps on Discord.
 
-<!--
-**mongooseee/mongooseee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I made [Sol's Stat Tracker](https://www.solsstattracker.com), a global auras tracker for Sol's RNG.
 
-Here are some ideas to get you started:
+![Banner](https://github.com/user-attachments/assets/e449c46b-b222-4f40-96e9-59291a97d17f)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bun,nodejs,typescript,javascript,java,python,lua,elysia,express,discordjs,electron,nginx,sqlite,postgresql,mongodb" alt="bun,nodejs,typescript,javascript,java,python,lua,elysia,express,discordjs,electron,nginx,sqlite,postgresql,mongodb" />
+  </a>
+</p>
+
+<br />
+
+## Projects
+- [Some trains at a railway station](https://www.roblox.com/games/10662382956/Some-trains-at-a-railway-station) - A simulation of trains arriving and departing at a station.
+- [Funicular Railway](https://www.roblox.com/games/11115687861/Funicular-Railway) - Two stations and a steep hill. Ride the funiculars.
+- [Charlie Charlie](https://www.roblox.com/games/4360170401/Charlie-Charlie) - A group horror experience based off the Charlie Charlie challenge.
+- [Cable Cars](https://www.roblox.com/games/7121871303/Cable-Cars) - Ride the cable cars and enjoy scenic views.
+- [Sol's Stat Tracker](https://mongoosee.com/solsstattracker) - Track global auras from Sol's RNG.
